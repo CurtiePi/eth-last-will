@@ -96,4 +96,7 @@ module.exports = {
       // }
     }
   }
+
+  // Configure location of JSON build output
+  contracts_build_directory: "./src/contracts"
 }
