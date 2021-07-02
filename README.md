@@ -1,6 +1,8 @@
 # eth-last-will
 
 ## Project setup
+Create a smart contract to allow one to create their last will and testamament
+
 ```
 npm install
 ```
