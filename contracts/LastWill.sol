@@ -20,7 +20,7 @@ contract LastWill {
     struct Beneficiary {
         uint id;
         string name;
-        string address;
+        string residence;
         string relationship;
         string content;
     }
